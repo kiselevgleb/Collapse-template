@@ -1,4 +1,3 @@
-const div = document.getElementById('div');
 const button = document.querySelector('button');
 const note = document.getElementById('note');
 const back = document.getElementById('back');
